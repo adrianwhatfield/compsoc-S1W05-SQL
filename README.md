@@ -4,10 +4,12 @@ This is a challenge inspired by the [8 Week SQL Challenge](https://8weeksqlchall
 
 ## Challenges
 
+- What are the descriptions of the products bought by every customer?
 - How many customers are in each country? 
 - What is the total each customer has spent?
 - What is the average amount spent by customers on shipping?
 - What is the most popular shipping service?
+- How many times was the tablet bought?
 - What is the average shipping distance?
 - How many orders are made on each weekday?
 - Which products made the most money?
